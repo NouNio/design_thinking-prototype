@@ -1,0 +1,2 @@
+download some fonts from whatever i used the deja vu things suggested in the error message, extract the directory into a new directory
+called fonts in the .venv/lib/python/site-packages/cv2/qt directory

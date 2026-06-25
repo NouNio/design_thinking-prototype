@@ -1,0 +1,323 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="1190.4pt"
+    height="1262.88pt"
+    viewBox="0 0 1190.4 1262.88">
+<defs>
+  <marker id="lineMarker0" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker0_1f8e0426" fill="none">
+     <g id="lineMarker0_53974b80" fill="none">
+      <g id="lineMarker0_178d41c5" fill="none">
+       <g id="lineMarker0_19b27888" fill="none">
+        <g id="lineMarker0_6c51e610" fill="none">
+         <g id="lineMarker0" fill="none">
+          <g id="Arrow1Lend" fill="none">
+           <path id="path4145" transform="matrix(-0.8 0 0 -0.8 0 4)" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.5 5L17.5 0L0 5L17.5 10Z" sodipodi:nodetypes="ccccc"/>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+  <marker id="lineMarker1" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker1_2e53ea42" fill="none">
+     <g id="lineMarker1_488a5323" fill="none">
+      <g id="lineMarker1_567ce227" fill="none">
+       <g id="lineMarker1_6324a75f" fill="none">
+        <g id="lineMarker1_666bff76" fill="none">
+         <g id="lineMarker1" fill="none">
+          <g id="Arrow1Mstart" fill="none">
+           <path id="path4148" transform="matrix(0.4 0 0 0.4 -1 -2)" fill="#003c6d" fill-rule="evenodd" stroke="#003c6d" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.5 5L17.5 0L0 5L17.5 10Z" sodipodi:nodetypes="ccccc"/>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+  <marker id="lineMarker2" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker2_73db0ac5" fill="none">
+     <g id="lineMarker2_7911562b" fill="none">
+      <g id="lineMarker2_6a5a0b7b" fill="none">
+       <g id="lineMarker2_64701f0d" fill="none">
+        <g id="lineMarker2_60056364" fill="none">
+         <g id="lineMarker2" fill="none">
+          <g id="DotL" fill="none">
+           <path id="path4203" transform="matrix(0.8 0 0 0.8 -4.08 -4)" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M10 5C10 7.76 7.76 10 5 10C2.24 10 0 7.76 0 5C0 2.24 2.24 0 5 0C7.76 0 10 2.24 10 5Z" sodipodi:nodetypes="ccccc"/>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+  <marker id="lineMarker3" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker3_60c13ee4" fill="none">
+     <g id="lineMarker3_5acc3c4d" fill="none">
+      <g id="lineMarker3_4f148e2c" fill="none">
+       <g id="lineMarker3_72c21198" fill="none">
+        <g id="lineMarker3_33c56c4a" fill="none">
+         <g id="lineMarker3" fill="none">
+          <g id="Arrow1Mend" fill="none">
+           <path id="path4151" transform="matrix(-0.4 0 0 -0.4 1 2)" fill="#003c6d" fill-rule="evenodd" stroke="#003c6d" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.5 5L17.5 0L0 5L17.5 10Z" sodipodi:nodetypes="ccccc"/>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+  <marker id="lineMarker4" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker4_599f078f" fill="none">
+     <g id="lineMarker4_12757ae0" fill="none">
+      <g id="lineMarker4_751985c2" fill="none">
+       <g id="lineMarker4_41ed8f0f" fill="none">
+        <g id="lineMarker4_4d886ac2" fill="none">
+         <g id="lineMarker4" fill="none">
+          <g id="Arrow1Mstart_20d4b3bf" fill="none">
+           <path id="path4148_4c278719" transform="matrix(0.4 0 0 0.4 -1 -2)" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.5 5L17.5 0L0 5L17.5 10Z" sodipodi:nodetypes="ccccc"/>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+  <marker id="lineMarker5" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker5_59a1c880" fill="none">
+     <g id="lineMarker5_62a4d042" fill="none">
+      <g id="lineMarker5_1a6cfa63" fill="none">
+       <g id="lineMarker5_2ab0e365" fill="none">
+        <g id="lineMarker5_64bcb6f9" fill="none">
+         <g id="lineMarker5" fill="none">
+          <g id="Arrow1Mend_1d58e160" fill="none">
+           <path id="path4151_324060a2" transform="matrix(-0.4 0 0 -0.4 1 2)" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.5 5L17.5 0L0 5L17.5 10Z" sodipodi:nodetypes="ccccc"/>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+  <marker id="lineMarker6" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker6_3c79c9fc" fill="none">
+     <g id="lineMarker6_4e199e94" fill="none">
+      <g id="lineMarker6_38552e74" fill="none">
+       <g id="lineMarker6_1ed39329" fill="none">
+        <g id="lineMarker6_3fde2769" fill="none">
+         <g id="lineMarker6" fill="none">
+          <g id="Arrow1Sstart" fill="none">
+           <path id="path4154" transform="matrix(0.2 0 0 0.2 -1.3 -1)" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.5 5L17.5 0L0 5L17.5 10Z" sodipodi:nodetypes="ccccc"/>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+  <marker id="lineMarker7" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker7_766b679b" fill="none">
+     <g id="lineMarker7_68bd4c01" fill="none">
+      <g id="lineMarker7_103aa3de" fill="none">
+       <g id="lineMarker7_77635f31" fill="none">
+        <g id="lineMarker7_63d2e16e" fill="none">
+         <g id="lineMarker7" fill="none">
+          <g id="Arrow1Mend_3f9e93a8" fill="none">
+           <path id="path4151_170132dd" transform="matrix(-0.4 0 0 -0.4 1 2)" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.5 5L17.5 0L0 5L17.5 10Z" sodipodi:nodetypes="ccccc"/>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+  <marker id="lineMarker8" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker8_5ec25602" fill="none">
+     <g id="lineMarker8_14b421af" fill="none">
+      <g id="lineMarker8_3a6ac829" fill="none">
+       <g id="lineMarker8_5c1360dc" fill="none">
+        <g id="lineMarker8_63e5e96f" fill="none">
+         <g id="lineMarker8" fill="none">
+          <g id="Arrow1Mend_3beeb92c" fill="none">
+           <path id="path4151_2a6476b6" transform="matrix(-0.4 0 0 -0.4 1 2)" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.5 5L17.5 0L0 5L17.5 10Z" sodipodi:nodetypes="ccccc"/>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+  <marker id="lineMarker9" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker9_6c60f070" fill="none">
+     <g id="lineMarker9_54f0e720" fill="none">
+      <g id="lineMarker9_65076916" fill="none">
+       <g id="lineMarker9_36a13d93" fill="none">
+        <g id="lineMarker9_21810166" fill="none">
+         <g id="lineMarker9" fill="none">
+          <g id="lineMarker0_7e0c2e0d" fill="none">
+           <g id="Arrow1Sstart_1d6d7a03" fill="none">
+            <path id="path4154_46c58e37" transform="matrix(0.2 0 0 0.2 -1.3 -1)" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.5 5L17.5 0L0 5L17.5 10Z" sodipodi:nodetypes="ccccc"/>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+  <marker id="lineMarker10" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker10_21b580d6" fill="none">
+     <g id="lineMarker10_723c7cfb" fill="none">
+      <g id="lineMarker10_42a8d814" fill="none">
+       <g id="lineMarker10_2a39c0e5" fill="none">
+        <g id="lineMarker10_339a1d83" fill="none">
+         <g id="lineMarker10" fill="none">
+          <g id="Arrow1Mend_5db236af" fill="none">
+           <path id="path4151_746617e6" transform="matrix(-0.4 0 0 -0.4 1 2)" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.5 5L17.5 0L0 5L17.5 10Z" sodipodi:nodetypes="ccccc"/>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+  <marker id="lineMarker11" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker11_59eec311" fill="none">
+     <g id="lineMarker11_46f9ddde" fill="none">
+      <g id="lineMarker11_488b37bb" fill="none">
+       <g id="lineMarker11_4338f42e" fill="none">
+        <g id="lineMarker11_2c95803c" fill="none">
+         <g id="lineMarker11" fill="none">
+          <g id="Arrow1Send" fill="none">
+           <path id="path4157" transform="matrix(-0.2 0 0 -0.2 1.3 1)" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.5 5L17.5 0L0 5L17.5 10Z" sodipodi:nodetypes="ccccc"/>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+  <marker id="lineMarker12" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker12_50e9ba52" fill="none">
+     <g id="lineMarker12_515058b2" fill="none">
+      <g id="lineMarker12_29797bd7" fill="none">
+       <g id="lineMarker12_76fc9d9d" fill="none">
+        <g id="lineMarker12_2f0a8e3d" fill="none">
+         <g id="lineMarker12" fill="none">
+          <g id="Arrow1Mend_6e3e4324" fill="none">
+           <path id="path4151_3694a119" transform="matrix(-0.4 0 0 -0.4 1 2)" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.5 5L17.5 0L0 5L17.5 10Z" sodipodi:nodetypes="ccccc"/>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+  <marker id="lineMarker13" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker13_1a03f728" fill="none">
+     <g id="lineMarker13_4fee23f7" fill="none">
+      <g id="lineMarker13_6284eacf" fill="none">
+       <g id="lineMarker13_3f4bbb30" fill="none">
+        <g id="lineMarker13" fill="none">
+         <g id="lineMarker14" fill="none">
+          <g id="Arrow1Send_7c2a2c88" fill="none">
+           <path id="path4157_1a7c9691" transform="matrix(-0.2 0 0 -0.2 1.3 1)" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.5 5L17.5 0L0 5L17.5 10Z" sodipodi:nodetypes="ccccc"/>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+  <marker id="lineMarker14" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker14_1f69d8d6" fill="none">
+     <g id="lineMarker14_689707e8" fill="none">
+      <g id="lineMarker14_17f2679f" fill="none">
+       <g id="lineMarker14_50165c55" fill="none">
+        <g id="lineMarker14_5fa8f34a" fill="none">
+         <g id="lineMarker15" fill="none">
+          <g id="Arrow1Lend_56921d4c" fill="none">
+           <path id="path4145_16bd1f25" transform="matrix(-0.8 0 0 -0.8 0 4)" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.5 5L17.5 0L0 5L17.5 10Z" sodipodi:nodetypes="ccccc"/>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+  <marker id="lineMarker15" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker15_6ea4ff1c" fill="none">
+     <g id="lineMarker15_1e18fd8a" fill="none">
+      <g id="lineMarker15_3a2f8737" fill="none">
+       <g id="lineMarker15_47192bc6" fill="none">
+        <g id="Arrow1Mstart_70dbad2b" fill="none">
+         <path id="path4148_167aa966" transform="matrix(0.4 0 0 0.4 -1 -2)" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.5 5L17.5 0L0 5L17.5 10Z" sodipodi:nodetypes="ccccc"/>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+  <marker id="lineMarker16" markerUnits="strokeWidth" refX="0" refY="0" markerWidth="3" markerHeight="3" orient="auto">
+      <defs/>
+   <g id="lineMarker16_419896ca" fill="none">
+     <g id="lineMarker16_5bf90ca4" fill="none">
+      <g id="lineMarker16_432d6a8a" fill="none">
+       <g id="lineMarker16" fill="none">
+        <g id="Arrow1Mend_5865f89d" fill="none">
+         <path id="path4151_5817f99e" transform="matrix(-0.4 0 0 -0.4 1 2)" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="2.8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M12.5 5L17.5 0L0 5L17.5 10Z" sodipodi:nodetypes="ccccc"/>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+  </marker>
+ </defs>
+<g id="group0" krita:textContourGroup="true" transform="matrix(0.473403815120118 0 0 0.473403815120118 191.877035720001 212.461654281613)"><ellipse id="shape0" rx="106.322468571429" ry="109.257325714286" cx="106.322468571429" cy="109.257325714286" fill="#e9f7ff" fill-rule="evenodd" stroke="#aac7fe" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel"/><text id="shape1" krita:textVersion="3" paint-order="stroke fill markers" fill="#000000" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" text-anchor="middle" style="overflow: clip;shape-inside: url(#shape0);shape-padding: 0;font-size: 12;overflow: clip;text-overflow: clip;white-space: pre-wrap;">transmission radius</text></g><ellipse id="shape2" transform="matrix(0.473403815120118 0 0 0.473403815120118 240.303962847818 256.931250134784)" rx="7.64077714285715" ry="10.5284571428572" cx="7.64077714285715" cy="10.5284571428572" fill="#ffffff" fill-rule="evenodd" stroke="#000000" stroke-width="9.6" stroke-linecap="square" stroke-linejoin="bevel"/><path id="shape3" transform="matrix(0.473403815120118 0 0 0.473403815120118 218.189870953096 241.204266825538)" fill="none" stroke="#000000" stroke-width="1.44" stroke-linecap="square" stroke-linejoin="bevel" stroke-dasharray="1.44,2.88" marker-end="url(#lineMarker0)" krita:marker-fill-method="auto" d="M7.92258 205.91C7.92258 186.266 -3.66467 162.775 1.18722 143.367C20.1993 67.3185 106.003 83.159 164.76 59.656C227.735 34.4663 196.017 0 283.11 0" sodipodi:nodetypes="cccc"/><rect id="shape4" transform="matrix(0.467259143003298 -0.0760267416775584 0.0760267416775584 0.467259143003298 215.894646222711 321.088788096616)" fill="#7d7dff" fill-rule="evenodd" stroke="#7f00ff" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="bevel" width="11.52" height="51.84"/><text id="shape5" krita:textVersion="3" transform="translate(391.507499999988, 39.3600000000007)" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" text-anchor="middle" style="shape-padding: 0;font-size: 21;white-space: pre-wrap;">Transmission Protocol (I &lt;–(Ia/II)–&gt; III)</text><path id="shape6" transform="matrix(0.758920630368606 0 0 0.758920630368606 372.450950344124 165.833570751766)" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0.96 0L0 267.84" sodipodi:nodetypes="cc"/><text id="shape01" krita:textVersion="3" transform="matrix(0.758920630368606 0 0 0.758920630368606 263.476244099098 186.109688414029)" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" text-anchor="middle" style="shape-padding: 0;font-size: 14;white-space: pre-wrap;">Automatic trigger -
+university network beacon</text><text id="shape02" krita:textVersion="3" transform="matrix(0.758920630368606 0 0 0.758920630368606 469.6855445747 181.42158626571)" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" text-anchor="middle" style="shape-padding: 0;font-size: 14;white-space: pre-wrap;">Manual trigger</text><rect id="shape7" transform="matrix(0.758920630368606 0 0 0.758920630368606 499.94961624605 203.718888619767)" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="bevel" width="118.08" height="219.84" rx="4.8" ry="4.8"/><g id="group1" krita:textContourGroup="true" transform="matrix(0.758920630368606 0 0 0.758920630368606 389.207917862663 269.289631083614)"><rect id="shape8" fill="#00c0d8" fill-rule="evenodd" stroke="#006b91" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="bevel" width="78.72" height="116.16"/><text id="shape9" krita:textVersion="3" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" text-anchor="middle" style="overflow: clip;shape-inside: url(#shape8);shape-padding: 0;font-size: 14;overflow: clip;text-overflow: clip;white-space: pre-wrap;">device</text></g><g id="group2" krita:textContourGroup="true" transform="matrix(0.758920630368606 0 0 0.758920630368606 507.235254297589 213.190218086767)"><rect id="shape10" fill="#e0daff" fill-rule="evenodd" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="bevel" width="99.8399999999999" height="188.16"/><text id="shape11" krita:textVersion="3" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" text-anchor="middle" style="overflow: clip;shape-inside: url(#shape10);shape-padding: 0;font-size: 14;overflow: clip;text-overflow: clip;white-space: pre-wrap;">User Interface
+</text></g><g id="group3" krita:textContourGroup="true" transform="matrix(0.758920630368606 0 0 0.758920630368606 448.950149885279 282.039497673807)"><path id="textPath0" fill="#00c0d8" fill-rule="evenodd" stroke="#003c6d" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" marker-start="url(#lineMarker1)" marker-mid="url(#lineMarker2)" marker-end="url(#lineMarker3)" krita:marker-fill-method="auto" d="M0 30.72L63.36 0" sodipodi:nodetypes="cc"/><text id="shape12" krita:textVersion="3" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" text-anchor="middle" style="shape-padding: 0;font-size: 7;white-space: pre-wrap;"><textPath xlink:href="#textPath0" startOffset="21.1505395960591" text-anchor="start">WIFI-con.</textPath></text></g><g id="group4" krita:textContourGroup="true" transform="matrix(0.758920630368606 0 0 0.758920630368606 511.970919031089 331.217554521692)"><rect id="shape13" fill="#24ff8d" fill-rule="evenodd" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="bevel" width="89.28" height="23.76"/><text id="shape14" krita:textVersion="3" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" text-anchor="middle" style="overflow: clip;shape-inside: url(#shape13);shape-padding: 0;font-size: 10;overflow: clip;text-overflow: clip;white-space: pre-wrap;">send data button</text></g><text id="shape15" krita:textVersion="3" transform="matrix(0.758920630368606 0 0 0.758920630368606 373.543796051855 136.955217790058)" paint-order="stroke fill markers" fill="#000000" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" text-anchor="middle" style="inline-size: 233.28;shape-padding: 0;font-size: 20;white-space: pre-wrap;">1. Trigger</text><text id="shape16" krita:textVersion="3" transform="translate(213.599999999988, 109.695000000001)" paint-order="stroke fill markers" fill="#000000" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" text-anchor="middle" style="inline-size: 156.48;shape-padding: 0;font-size: 20;white-space: pre-wrap;">Device</text><text id="shape17" krita:textVersion="3" transform="translate(390.719999999988, 109.440000000001)" paint-order="stroke fill markers" fill="#000000" stroke-opacity="0" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="bevel" text-anchor="middle" style="shape-padding: 0;font-size: 20;white-space: pre-wrap;">Bridge
+</text><text id="shape03" krita:textVersion="3" transform="translate(580.516562499988, 110.476250000001)" paint-order="stroke fill markers" fill="#000000" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" text-anchor="middle" style="shape-padding: 0;font-size: 20;white-space: pre-wrap;">Server</text><g id="group5" krita:textContourGroup="true" transform="translate(255.359999999988, 100.800000000001)"><path id="textPath01" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" marker-start="url(#lineMarker4)" marker-end="url(#lineMarker5)" krita:marker-fill-method="auto" d="M0 0L91.2 0" sodipodi:nodetypes="cc"/><text id="shape18" krita:textVersion="3" paint-order="stroke fill markers" fill="#000000" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" text-anchor="middle" style="shape-padding: 0;font-size: 9;white-space: pre-wrap;"><textPath xlink:href="#textPath01" startOffset="27.84">1. trigger</textPath></text></g><g id="group6" krita:textContourGroup="true" transform="translate(219.839999999988, 55.0888410548711)"><path id="textPath02" transform="translate(0, 4.12048049511782e-05)" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="bevel" marker-start="url(#lineMarker6)" marker-end="url(#lineMarker7)" krita:marker-fill-method="auto" d="M0 30.3512C36.0499 -5.6988 335.04 -14.6612 364.8 31.3112" sodipodi:nodetypes="cc"/><text id="shape19" krita:textVersion="3" paint-order="stroke fill markers" fill="#000000" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" text-anchor="middle" style="shape-padding: 0;font-size: 9;white-space: pre-wrap;"><textPath xlink:href="#textPath02" startOffset="98.1839613621354">2. protocol over bridge network</textPath></text></g><path id="shape20" transform="matrix(-1 0 0 1 465.279999999975 455.039999999988)" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" stroke-dasharray="1.92,3.84" d="M2.56 0L0 847.68" sodipodi:nodetypes="cc"/><path id="shape21" transform="translate(406.392552645471, 424.506739895221)" fill="#b6ffe5" fill-rule="evenodd" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="bevel" d="M32.5441 8.85936C38.0473 -2.88828 45.7177 -2.66364 54.1192 7.81888C55.5414 0.0124809 75.2174 -3.7177 75.9804 7.26673C87.1849 3.13493 93.0951 5.85991 91.158 15.8759C109.842 12.4066 116.675 18.4721 111.182 26.763C116.543 31.0721 114.821 31.6074 111.61 38.7372C117.756 40.6397 112.108 53.5965 103.26 46.8095C101.356 47.7121 92.8546 58.0467 81.5663 49.1656C81.8457 58.8058 66.3838 58.8613 64.6693 58.6768C57.9759 57.9566 56.2156 52.5184 53.2624 50.8086C49.8116 53.8979 42.2501 67.7012 27.8602 59.8093C20.9992 56.0465 25.1304 51.2793 22.3456 48.1463C11.4146 53.9825 10.4517 50.2162 9.29436 43.2556C-9.24011 45.3921 5.64836 32.3442 5.78432 31.7163C-0.200689 19.6268 9.73103 20.3122 12.7099 20.1769C15.9884 5.06314 32.5441 8.59244 32.5441 8.85936Z" sodipodi:nodetypes="cccccccccccccccc"/><path id="shape04" transform="translate(85.7087999999814, 476.884799999989)" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" stroke-dasharray="1.92,3.84" d="M0.96 0L0 797.515" sodipodi:nodetypes="cc"/><path id="shape22" transform="translate(88.2399999999944, 409.440000000002)" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M22.08 64.32L0 0" sodipodi:nodetypes="cc"/><path id="shape23" transform="translate(88.2399999999944, 409.440000000002)" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 67.92L0 0" sodipodi:nodetypes="cc"/><path id="shape24" transform="translate(67.1199999999874, 409.440000000002)" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 65.76L21.12 0" sodipodi:nodetypes="cc"/><path id="shape25" transform="translate(77.1999999999864, 433.439999999989)" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M19.44 0L0 1.44" sodipodi:nodetypes="cc"/><path id="shape26" transform="translate(72.8799999999864, 446.399999999989)" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 1.44L26.64 0" sodipodi:nodetypes="cc"/><path id="shape27" transform="translate(70.9599999999953, 460.079999999988)" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M34.56 0L0 2.16" sodipodi:nodetypes="cc"/><ellipse id="shape28" transform="translate(80.0799999999944, 399.600000000002)" rx="8.63999999999999" ry="9.71999999999392" cx="8.63999999999999" cy="9.71999999999392" fill="#ffffff" fill-rule="evenodd" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="bevel"/><g id="group7" krita:textContourGroup="true" transform="matrix(0.758920630368606 0 0 0.758920630368606 253.488816924073 532.457745113796)"><rect id="shape05" fill="#00c0d8" fill-rule="evenodd" stroke="#006b91" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="bevel" width="57.0694501411443" height="84.2122374033958"/><text id="shape110" krita:textVersion="3" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" text-anchor="middle" style="overflow: clip;shape-inside: url(#shape05);shape-padding: 0;font-size: 14;overflow: clip;text-overflow: clip;white-space: pre-wrap;">device</text></g><g id="group8" krita:textContourGroup="true" transform="translate(87.9999999999864, 485.279999999988)"><path id="textPath03" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L383.04 61.92" sodipodi:nodetypes="cc"/><text id="shape29" krita:textVersion="3" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" text-anchor="middle" style="shape-padding: 0;font-size: 14;overflow: clip;text-overflow: clip;white-space: pre-wrap;"><textPath xlink:href="#textPath03" startOffset="207.374677257567">authenticated device</textPath></text></g><text id="shape30" krita:textVersion="3" transform="translate(520.799999999994, 587.519999999983)" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" text-anchor="middle" style="shape-padding: 0;font-size: 14;overflow: clip;text-overflow: clip;white-space: pre-wrap;"></text><path id="shape06" transform="translate(270.537599999976, 597.209599999985)" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" stroke-dasharray="1.92,3.84" d="M0.96 0L0 693.03" sodipodi:nodetypes="cc"/><g id="group9" krita:textContourGroup="true" transform="translate(83.6799999999884, 585.120000000001)"><path id="textPath04" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" marker-end="url(#lineMarker8)" krita:marker-fill-method="auto" d="M0 0L187.2 68.16" sodipodi:nodetypes="cc"/><text id="shape31" krita:textVersion="3" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" text-anchor="middle" style="shape-padding: 0;font-size: 14;overflow: clip;text-overflow: clip;white-space: pre-wrap;"><textPath xlink:href="#textPath04" startOffset="71.746093948964">triggered on connect
+(auto-connect)</textPath></text></g><path id="shape07" transform="matrix(-1 0 0 1 262.556142265863 832.704189562914)" sodipodi:type="arc" sodipodi:rx="16.3782558435418" sodipodi:ry="17.28" sodipodi:cx="6.25786851058889" sodipodi:cy="17.2813390277433" sodipodi:start="4.37631460285088" sodipodi:end="1.9628466089456" sodipodi:open="true" d="M0 33.2503C6.74321 36.1918 14.5175 34.072 19.0655 28.0518C23.6136 22.0315 23.8383 13.563 19.6166 7.28378C15.3949 1.00452 7.74522 -1.57083 0.856588 0.968042" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="bevel" marker-start="url(#lineMarker9)" krita:marker-fill-method="auto"/><g id="group10" krita:textContourGroup="true" transform="translate(270.159999999981, 682.559999999982)"><path id="textPath05" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" marker-end="url(#lineMarker10)" krita:marker-fill-method="auto" d="M0 0L194.4 0" sodipodi:nodetypes="cc"/><text id="shape32" krita:textVersion="3" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" style="shape-padding: 0;font-size: 9;overflow: clip;text-overflow: clip;white-space: pre-wrap;"><textPath xlink:href="#textPath05" startOffset="10.0799999999997">send packet - (km, date, device_id,tables)</textPath></text></g><rect id="shape36" transform="translate(449.519999999988, 655.200000000001)" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="bevel" width="29.52" height="195.12"/><path id="shape37" transform="translate(270.959999999983, 831.599999999978)" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" marker-end="url(#lineMarker11)" krita:marker-fill-method="auto" d="M191.52 0L0 0" sodipodi:nodetypes="cc"/><text id="shape38" krita:textVersion="3" transform="translate(299.519999999988, 825.600000000001)" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" style="font-size: 12;overflow: clip;text-overflow: clip;white-space: pre-wrap;">send cloud-id, date,km</text><path id="shape39" transform="translate(271.679999999988, 869.760000000001)" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" marker-end="url(#lineMarker12)" krita:marker-fill-method="auto" d="M0 0L192 0" sodipodi:nodetypes="cc"/><text id="shape40" krita:textVersion="3" transform="translate(192.959999999988, 823.680000000001)" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" style="font-size: 12;overflow: clip;text-overflow: clip;white-space: pre-wrap;">save cloud-id</text><text id="shape41" krita:textVersion="3" transform="translate(315.839999999988, 887.040000000001)" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" style="font-size: 12;overflow: clip;text-overflow: clip;white-space: pre-wrap;">cloid-id -ok</text><text id="shape42" krita:textVersion="3" transform="translate(163.199999999988, 843.840000000001)" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" style="font-size: 12;overflow: clip;text-overflow: clip;white-space: pre-wrap;">add to saved</text><g id="group11" krita:textContourGroup="true" transform="translate(271.679999999983, 931.679999999975)"><path id="textPath09" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" stroke-dasharray="1.92,3.84" marker-end="url(#lineMarker13)" krita:marker-fill-method="auto" d="M194.4 0L0 1.44" sodipodi:nodetypes="cc"/><text id="shape46" krita:textVersion="3" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" style="font-size: 12;overflow: clip;text-overflow: clip;white-space: pre-wrap;"><textPath xlink:href="#textPath09" startOffset="121.788658793195" side="right" text-anchor="end">ok</textPath></text></g><g id="group12" krita:textContourGroup="true" transform="translate(165.119999999986, 658.079999999983)"><rect id="shape47" fill="#ffffff" fill-rule="evenodd" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="bevel" width="102.239999999997" height="57.6000000000183"/><text id="shape48" krita:textVersion="3" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" style="overflow: clip;shape-inside: url(#shape47);shape-padding: 0;font-size: 12;overflow: clip;text-overflow: clip;white-space: pre-wrap;">loop until 
+no unsaved</text></g><g id="group13" krita:textContourGroup="true" transform="translate(165.599999999985, 660.96)"><rect id="shape49" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="bevel" width="612.000000000003" height="341.28"/><text id="shape50" krita:textVersion="3" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" style="overflow: clip;shape-inside: url(#shape49);shape-padding: 4.32000000000096;font-size: 12;overflow: clip;text-overflow: clip;white-space: pre-wrap;"></text></g><text id="shape51" krita:textVersion="3" transform="translate(575.039999999988, 778.908125000001)" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" style="inline-size: 121.92;shape-padding: 0;font-size: 12;overflow: clip;text-overflow: clip;white-space: pre-wrap;">deviceId-cloud-id generated for protocol failure callback
+saved with
+first part</text><g id="group14" krita:textContourGroup="true" transform="translate(534.719999999988, 975.360000000001)"><path id="textPath010" fill="none" stroke="#000000" stroke-width="1.92" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" marker-end="url(#lineMarker14)" krita:marker-fill-method="auto" d="M55.68 180.48L0 0" sodipodi:nodetypes="cc"/><text id="shape52" krita:textVersion="3" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" style="shape-padding: 0;font-size: 12;overflow: clip;text-overflow: clip;white-space: pre-wrap;"><textPath xlink:href="#textPath010" startOffset="21.4598208396091">failure callbacks</textPath></text></g><text id="shape53" krita:textVersion="3" transform="translate(475.199999999988, 1160.028125)" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" style="inline-size: 150.72;shape-padding: 0;font-size: 12;overflow: clip;text-overflow: clip;white-space: pre-wrap;">data saved as 1 packet, if failure none saved
+response failure on first sever response:
+when device connects : server sends cloud id with date entry to cross reference</text><g id="group15" krita:textContourGroup="true" transform="translate(170.64000000001, 711.72000000004)"><path id="textPath06" transform="translate(297.6, 0)" fill="none" stroke="#000000" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 151.2L262.08 0" sodipodi:nodetypes="cc"/><text id="shape44" krita:textVersion="3" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" style="font-size: 12;overflow: clip;text-overflow: clip;white-space: pre-wrap;"><textPath xlink:href="#textPath06" startOffset="58.1796869250737">delete entry</textPath></text></g><g id="group16" krita:textContourGroup="true" transform="translate(167.52000000001, 716.280000000001)"><path id="textPath07" transform="translate(297.6, 0)" fill="none" stroke="#000000" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 88.56L257.4 0" sodipodi:nodetypes="cc"/><text id="shape54" krita:textVersion="3" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" style="font-size: 12;overflow: clip;text-overflow: clip;white-space: pre-wrap;"><textPath xlink:href="#textPath07" startOffset="57.5991948221034">save entry</textPath></text></g><g id="group17" krita:textContourGroup="true" transform="translate(379.441884761425, 689.581352380467)"><rect id="shape015" transform="translate(297.6, 0)" fill="none" stroke="#000000" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="bevel" width="28.2053238098117" height="21.84"/><text id="shape56" krita:textVersion="3" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" style="overflow: clip;shape-inside: url(#shape015);font-size: 12;overflow: clip;text-overflow: clip;white-space: pre-wrap;">tags Text</text></g><g id="group18" krita:textContourGroup="true" transform="translate(646.20188476144, 688.861352380467)"><rect id="shape013" fill="none" stroke="#000000" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="bevel" width="28.2053238098117" height="21.84"/><text id="shape33" krita:textVersion="3" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" style="overflow: clip;shape-inside: url(#shape013);shape-padding: 0;font-size: 12;overflow: clip;text-overflow: clip;white-space: pre-wrap;">km</text></g><g id="group19" krita:textContourGroup="true" transform="translate(617.994676190224, 688.650676190234)"><rect id="shape012" fill="none" stroke="#000000" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="bevel" width="28.2053238098117" height="21.84"/><text id="shape34" krita:textVersion="3" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" style="overflow: clip;shape-inside: url(#shape012);shape-padding: 0;font-size: 12;overflow: clip;text-overflow: clip;white-space: pre-wrap;">date</text></g><g id="group20" krita:textContourGroup="true" transform="translate(555.839999999988, 688.320000000001)"><rect id="shape43" fill="none" stroke="#000000" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="bevel" width="61.9200000000465" height="21.84"/><text id="shape35" krita:textVersion="3" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" style="overflow: clip;shape-inside: url(#shape43);font-size: 12;overflow: clip;text-overflow: clip;white-space: pre-wrap;">cloud id</text></g><g id="group21" krita:textContourGroup="true" transform="translate(406.081884761426, 689.581352380467)"><rect id="shape014" transform="translate(297.6, 0)" fill="none" stroke="#000000" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="bevel" width="65.1581152385999" height="21.84"/><text id="shape55" krita:textVersion="3" paint-order="stroke fill markers" fill="#000000" stroke="#ffffff" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" style="overflow: clip;shape-inside: url(#shape014);font-size: 12;overflow: clip;text-overflow: clip;white-space: pre-wrap;">device id</text></g><path id="shape45" transform="translate(464.639999999988, 696.960000000001)" fill="none" stroke="#000000" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" marker-start="url(#lineMarker15)" marker-end="url(#lineMarker16)" krita:marker-fill-method="auto" d="M0 1.92L93.12 0" sodipodi:nodetypes="cc"/><text id="shape151" krita:textVersion="3" transform="matrix(0.758920630368606 0 0 0.758920630368606 311.066723194546 412.037484646262)" paint-order="stroke fill markers" fill="#000000" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" text-anchor="middle" style="inline-size: 233.28;shape-padding: 0;font-size: 20;white-space: pre-wrap;">2. Protocol</text><path id="shape57" transform="translate(83.5200000000048, 838.080000000047)" fill="none" stroke="#000000" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L82.08 0" sodipodi:nodetypes="cc"/><text id="shape58" krita:textVersion="3" transform="translate(108.000000000006, 832.320000000047)" paint-order="stroke fill markers" fill="#000000" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" text-anchor="middle" style="shape-padding: 0;font-size: 20;white-space: pre-wrap;">runs on nw</text>
+</svg>

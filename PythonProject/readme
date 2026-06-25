@@ -1,0 +1,30 @@
+How to use:
+run aqib's stuff (add the add_to_backend.txt parts somewhere)
+change the directory name in if __name__ == __main__ (you can unless you change stuff on aqib's stuff ignore the second value)
+(just use ctrl+f to find stuff)
+if fonts issue is thrown read the fixfonts issue thing or google
+
+
+change animation process
+
+control for process is in the values structure
+(just ignore the nestedness I have that handled)
+total is the amount of kms
+phases are different animation logic things
+    ignore range, that's just the frames of the sequence
+    threshold is the ratio on which this phase starts
+    cont is when the animation plays regardless of progress
+    loops means the animation is looped, otherwise the animation just stops here
+    color is the text color (keep in mind the order is blue,green,red for some reason)
+
+
+controls:
+if backend update too slow change value in time.sleep
+if not backend running/additionally/time control
+    k - move back (won't work on stuff where different phases exist)
+    l - move front
+video control video reset values not reset:
+    a- switches to video before in directory(loops between indexes)
+    d - switches to video before in directory(loops between indexes)
+RESET VALUES TO 0 (already considers server values)
+    r - reset values (use if switching to new)

@@ -1,0 +1,8 @@
+@app.route("/distance", methods=["GET"])
+def get():
+    sum = 0.0
+    for i, v in devices.items():
+        sum += v['total_received_km']
+    return jsonify({
+        "sum": sum
+    }), 200

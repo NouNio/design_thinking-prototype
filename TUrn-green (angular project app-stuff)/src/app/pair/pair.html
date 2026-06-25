@@ -1,0 +1,31 @@
+<div style="background-color: #3A458F;color: #FFFFFF; border:none">
+<a href="/nopaired"><button>cancel</button></a><h1>Pair device</h1>
+</div>
+<div>
+    @if (this.scanned) {Found device}
+    @else {
+        Bring your device close to your phone to pair via Bluetooth
+    }
+</div>
+<div>
+    <img src="bluetooth.png">
+</div>
+<div>
+    @if (this.scanned) {
+        <a href="/success" >
+<button style="background-color: #45E5C1; color: #FFFFFF; width: 100%; height: 100%; border-radius: 20px; border:none">
+Pair
+</button>
+    
+</a>
+
+    }
+    @else{
+<a >
+<button style="background-color: #3A458F; color: #FFFFFF; width: 100%; height: 100%; border-radius: 20px; border:none" (click)="set()">
+    Scan for devices
+</button>
+<p>trouble connecting? <i style="color: #929BD3;">Try connecting via qr-code insstead</i></p>    
+</a>
+    }
+</div>

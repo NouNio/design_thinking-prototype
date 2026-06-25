@@ -1,0 +1,9 @@
+
+
+.bgImageFull {
+    background-image: url(../../../public/v155_5.png);
+    height: 3740px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
