@@ -1,0 +1,6 @@
+CSS-STYLESHEET and toggle-button-mechanism copied and adapted from:
+
+
+https://github.com/Vetrivel-VP/html-css-web-ui-components-for-free/tree/main/Buttons/toggle-switch-button
+
+(MIT_licensed)
