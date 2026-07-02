@@ -46,8 +46,8 @@
 
 #define RST_PIN 13  // Configurable, see typical pin layout above
 #define SS_PIN 5    // Configurable, see typical pin layout above
-const char *ssid = "LegotecNET";
-const char *password = "Toffie83!";
+const char *ssid = ;
+const char *password = ;
 const char *mqtt_broker = "raspberrypi.local";
 //const char *mqtt_broker = "192.168.8.115";
 int mode = 0;
